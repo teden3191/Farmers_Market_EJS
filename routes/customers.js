@@ -7,7 +7,7 @@ app.get('/Customers', function(req, res) {
   res.render('Customers', { title: 'Customers' });
 });
 
-app.get('/CreateCustomerAccount', function(req, res) {
+app.get('/', function(req, res) {
   res.render('CreateCustomerAccount', { title: 'Create Customer Account' });
 });
 
