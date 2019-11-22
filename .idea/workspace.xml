@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="cc5020c1-b163-4092-a086-a4e1fbcb79a4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database2/customers_database.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database2/db_connection.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database2/farmers_database.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database2/items_database.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.ejs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +51,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -88,7 +86,8 @@
       <workItem from="1574384758695" duration="3832000" />
       <workItem from="1574388637802" duration="428000" />
       <workItem from="1574389092330" duration="235000" />
-      <workItem from="1574389356222" duration="5046000" />
+      <workItem from="1574389356222" duration="5658000" />
+      <workItem from="1574395362651" duration="169000" />
     </task>
     <servers />
   </component>
@@ -100,7 +99,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
