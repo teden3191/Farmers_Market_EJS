@@ -2,20 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc5020c1-b163-4092-a086-a4e1fbcb79a4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/customer_database.js" beforeDir="false" afterPath="$PROJECT_DIR$/database/customers_database.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/db_connection.js" beforeDir="false" afterPath="$PROJECT_DIR$/database/db_connection.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/Jakefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ejs/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/ejs.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ejs/ejs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/ejs.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ejs/ejs.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/lib/ejs.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ejs/lib/ejs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ejs/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/customers.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/customers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database2/customers_database.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database2/db_connection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database2/farmers_database.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database2/items_database.js" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +57,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\IdeaProjects\Farmers_Market_EJS" />
       <recent name="C:\Users\Admin\IdeaProjects\Farmers_Market_EJS\database" />
       <recent name="C:\Users\Admin\IdeaProjects\Farmers_Market_EJS\views" />
     </key>
@@ -96,7 +88,7 @@
       <workItem from="1574384758695" duration="3832000" />
       <workItem from="1574388637802" duration="428000" />
       <workItem from="1574389092330" duration="235000" />
-      <workItem from="1574389356222" duration="4805000" />
+      <workItem from="1574389356222" duration="5046000" />
     </task>
     <servers />
   </component>
