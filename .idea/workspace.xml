@@ -5,7 +5,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/customer_database.js" beforeDir="false" afterPath="$PROJECT_DIR$/database/customer_database.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/customer_database.js" beforeDir="false" afterPath="$PROJECT_DIR$/database/customers_database.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/db_connection.js" beforeDir="false" afterPath="$PROJECT_DIR$/database/db_connection.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/ejs/Jakefile" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/ejs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ejs/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/ejs/ejs.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ejs/ejs.js" afterDir="false" />
@@ -65,8 +66,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Admin\IdeaProjects\Farmers_Market_EJS\views" />
       <recent name="C:\Users\Admin\IdeaProjects\Farmers_Market_EJS\database" />
+      <recent name="C:\Users\Admin\IdeaProjects\Farmers_Market_EJS\views" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -95,7 +96,7 @@
       <workItem from="1574384758695" duration="3832000" />
       <workItem from="1574388637802" duration="428000" />
       <workItem from="1574389092330" duration="235000" />
-      <workItem from="1574389356222" duration="4523000" />
+      <workItem from="1574389356222" duration="4805000" />
     </task>
     <servers />
   </component>
